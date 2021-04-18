@@ -1,2 +1,2 @@
-# Online-School-Website-Dashboard
-This is the example of Online School Dashboard Page
+# Side-Navigation-Bar
+How to Create the Side Navigation Bar Using HTML and CSS
