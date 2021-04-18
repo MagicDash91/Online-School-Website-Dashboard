@@ -1,2 +1,2 @@
-# Side-Navigation-Bar
-How to Create the Side Navigation Bar Using HTML and CSS
+# School Dashboard
+School Dashboard page with navigation bar
